@@ -31,12 +31,12 @@
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0);
+  --theme-transparency: rgba(0, 0, 0, 0.8);
 
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/ukvWROL.png);
+  --home-icon-image: url(https://i.imgur.com/wopDwh4.jpg);
 
   /*
     Change your friends icon image position
